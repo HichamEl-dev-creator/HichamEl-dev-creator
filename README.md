@@ -4,6 +4,8 @@
 
 </div>
 
+<div align="center">
+
 <a href="https://github.com/HichamEl-dev-creator">
 <img src="https://img.shields.io/badge/GitHub-HichamEl--dev--creator-181717?style=for-the-badge&logo=github" />
 </a>
@@ -509,11 +511,11 @@ I'm continuously exploring new ideas in:
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/Me/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/Me/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/Me/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
