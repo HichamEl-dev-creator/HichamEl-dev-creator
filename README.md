@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=I'm+Hicham+El+Hachami;Final-Year+Engineering+Student;Software+Engineering+%26+Artificial+Intelligence;Backend+Developer+%7C+AI+Engineer;Passionate+about+Cloud+%26+Distributed+Systems" alt="Animated Introduction" />
+
+</div>
+
 <a href="https://github.com/HichamEl-dev-creator">
 <img src="https://img.shields.io/badge/GitHub-HichamEl--dev--creator-181717?style=for-the-badge&logo=github" />
 </a>
