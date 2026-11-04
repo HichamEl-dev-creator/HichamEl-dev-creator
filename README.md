@@ -145,6 +145,271 @@ I enjoy designing and developing software solutions, backend systems, and AI-pow
 
 ## 🚀 SELECTED PROJECTS
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 PathoCrash
+
+**3D Medical Escape Room & AI-Powered Learning Platform**
+
+**Problem Statement:**
+
+Traditional medical education can lack interactive environments where students can practice clinical reasoning, analyze patient symptoms, and make decisions in realistic scenarios.
+
+**Proposed Solution:**
+
+PathoCrash is an interactive 3D medical escape room designed to improve clinical reasoning through immersive medical scenarios and AI-powered interactions.
+
+**Key Features:**
+
+- Interactive 3D medical environments.
+- Multi-Agent AI architecture (Generator, Patient, Debriefer).
+- Medical Retrieval-Augmented Generation (RAG).
+- Fine-tuned LLM integration.
+- Real-time communication and clinical feedback.
+
+**Technologies:**
+
+`React` `Next.js` `Node.js` `Babylon.js` `WebGL` `Python` `FastAPI` `LangChain` `ChromaDB` `PostgreSQL` `WebSockets` `Docker` `GitHub Actions` `NextAuth.js` `JWT`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/PathoCrash">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 PIPLO-AI
+
+**Multimodal Biometric Authentication**
+
+**Problem Statement:**
+
+Traditional authentication systems often rely on passwords or a single biometric factor, creating usability and security limitations.
+
+**Proposed Solution:**
+
+PIPLO-AI explores multimodal biometric authentication by combining facial recognition and voice-based interaction for identity verification.
+
+**Key Features:**
+
+- Facial recognition and biometric verification.
+- Face analysis using computer vision.
+- Voice input and speech-to-text processing.
+- Multimodal authentication workflow.
+- Local data storage and management.
+
+**Technologies:**
+
+`Python` `PyQt6` `OpenCV` `DeepFace` `SQLite` `Speech-to-Text`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/PIPLO-AI">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning Classification
+
+**Supervised Machine Learning Project**
+
+**Problem Statement:**
+
+Classification tasks require transforming raw data into meaningful features and building predictive models capable of assigning observations to the correct categories.
+
+**Proposed Solution:**
+
+A supervised machine learning pipeline covering data preprocessing, feature scaling, model training, dimensionality reduction, and performance evaluation.
+
+**Key Features:**
+
+- Dataset exploration and preprocessing.
+- Feature standardization using StandardScaler.
+- Classification using Logistic Regression.
+- Training and testing dataset evaluation.
+- Dimensionality reduction with PCA.
+- Comparison of PCA configurations.
+
+**Technologies:**
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/classification">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Application d-centralis-e
+
+**Decentralized Application**
+
+**Problem Statement:**
+
+Traditional centralized applications depend on a central authority to manage data and operations, potentially introducing single points of failure and limiting transparency.
+
+**Proposed Solution:**
+
+A decentralized application exploring blockchain-based architecture and smart contract development to support transparent and decentralized interactions.
+
+**Key Features:**
+
+- Decentralized application architecture.
+- Smart contract development.
+- Blockchain interaction.
+- Local blockchain development and testing.
+- Smart contract deployment and testing.
+
+**Technologies:**
+
+`Solidity` `Ethereum` `Web3.js` `Ganache`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/Application-d-centralis-e">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📋 TaskMe App
+
+**Task Management Application**
+
+**Problem Statement:**
+
+Managing tasks within a team can become difficult when responsibilities are distributed manually, resulting in unbalanced workloads and inefficient task organization.
+
+**Proposed Solution:**
+
+TaskMe is a task management application designed to facilitate task organization and allocation among team members through a MERN-based architecture.
+
+**Key Features:**
+
+- Task creation and management.
+- Task assignment to team members.
+- Centralized task organization.
+- Task tracking and management.
+- Web-based application interface.
+
+**Technologies:**
+
+`MongoDB` `Express.js` `React` `Node.js` `MERN Stack`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/TaskMe-App">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Linear Programming & Graph Theory Solver
+
+**Mathematical Optimization Application**
+
+**Problem Statement:**
+
+Solving optimization problems manually can become complex when dealing with multiple variables, constraints, objective functions, and graph-based mathematical problems.
+
+**Proposed Solution:**
+
+An application providing a graphical environment for exploring and solving problems related to Linear Programming and Graph Theory.
+
+**Key Features:**
+
+- Linear programming problem modeling.
+- Objective functions and constraints representation.
+- Graph-based problem visualization.
+- Mathematical computation and result analysis.
+- Interactive graphical interface.
+
+**Technologies:**
+
+`Python` `PyQt6` `Matplotlib` `NetworkX`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/Application-pour-resoudre-les-problemes-de-programmation-linaire-et-de-theorie-des-graphes-">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Intelligent Education Website
+
+**Intelligent Teaching Platform**
+
+**Problem Statement:**
+
+Traditional educational websites may provide limited interaction between learners and educational content, making it difficult to deliver accessible and interactive learning experiences.
+
+**Proposed Solution:**
+
+A web-based educational platform designed to provide a digital learning environment where users can access educational resources and interact with educational services.
+
+**Key Features:**
+
+- Web-based educational platform.
+- Educational content presentation.
+- Interactive user interface.
+- Database-backed application.
+- Dynamic content management.
+
+**Technologies:**
+
+`HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
+
+<p align="center">
+<a href="https://github.com/HichamEl-dev-creator/Site-Web-pour-l-Enseignement-Intelligent">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+I'm continuously exploring new ideas in:
+
+- Backend and API development.
+- Generative AI and AI Agents.
+- Data Engineering and Machine Learning.
+- Cloud and Distributed Systems.
+- Software Architecture and System Design.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -162,6 +427,136 @@ I enjoy designing and developing software solutions, backend systems, and AI-pow
 
 `React` `Next.js` `Node.js` `Babylon.js` `FastAPI` `LangChain` `ChromaDB` `Docker` `PostgreSQL`
 
+<a href="https://github.com/HichamEl-dev-creator/PathoCrash">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 PIPLO-AI
+
+**Artificial Intelligence Project**
+
+<a href="https://github.com/HichamEl-dev-creator/PIPLO-AI">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning Classification
+
+**Supervised Machine Learning Project**
+
+- Data preprocessing and analysis.
+- Classification model development.
+- Feature scaling and dimensionality reduction.
+- Model evaluation.
+
+**Technologies:**
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+<a href="https://github.com/HichamEl-dev-creator/classification">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Application d-centralis-e
+
+**Decentralized Application**
+
+<a href="https://github.com/HichamEl-dev-creator/Application-d-centralis-e">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ SportConnect
+
+**Sports Connectivity Platform — Frontend**
+
+<a href="https://github.com/HichamEl-dev-creator/https---github.com-SportConnect-dev-SportConnect-FrontEnd">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 TaskMe App
+
+**Task Management Application**
+
+<a href="https://github.com/HichamEl-dev-creator/TaskMe-App">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Linear Programming & Graph Theory
+
+**Problem-Solving Application**
+
+<a href="https://github.com/HichamEl-dev-creator/Application-pour-resoudre-les-problemes-de-programmation-linaire-et-de-theorie-des-graphes-">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Intelligent Teaching Website
+
+**Intelligent Education Platform**
+
+<a href="https://github.com/HichamEl-dev-creator/Site-Web-pour-l-Enseignement-Intelligent">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 PathoCrash
+
+### 🧬 PathoCrash
+
+**3D Medical Escape Room & AI-Powered Learning Platform**
+
+- Interactive 3D medical scenarios.
+- Multi-Agent AI architecture.
+- Medical RAG and LLM integration.
+- Real-time backend communication.
+
+**Technologies:**
+
+`React` `Next.js` `Node.js` `Babylon.js` `FastAPI` `LangChain` `ChromaDB` `Docker` `PostgreSQL`
+
+<p>
+<a href="REPOSITORY_URL">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+
 </td>
 <td width="50%" valign="top">
 
@@ -177,6 +572,12 @@ I enjoy designing and developing software solutions, backend systems, and AI-pow
 **Technologies:**
 
 `React` `Tailwind CSS` `Laravel` `MySQL`
+
+<p>
+<a href="REPOSITORY_URL">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 </td>
 </tr>
@@ -195,6 +596,12 @@ I enjoy designing and developing software solutions, backend systems, and AI-pow
 **Technologies:**
 
 `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+<p>
+<a href="REPOSITORY_URL">
+<img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
