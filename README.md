@@ -62,40 +62,69 @@ I enjoy designing and developing software solutions, backend systems, and AI-pow
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Technical+Skills;Software+Engineering+%7C+AI;Backend+%7C+Frontend+%7C+DevOps" alt="Technical Skills Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Technical+Skills;Software+Engineering+%7C+AI;Backend+%7C+DevOps+%7C+System+Design" alt="Technical Skills Animation" />
 
 </div>
 
-### 💻 Computer Science Core
+### 💻 Computer Science & Architecture Core
 
-- Algorithms
-- Data Structures
-- Software Architecture
-- Computer Networks
-- Networking & Security: Routing, IP/TCP/UDP Protocols, System Security.
+- **Core Fundamentals:** Algorithms, Data Structures, Object-Oriented Programming (OOP), Operating Systems (Linux).
+- **Software Architecture & System Design:** System Design, Microservices, Client-Server Architecture, Layered Architecture, Distributed Systems, Scalability & High Availability, Model-Driven Engineering (IDM/MDE: EMF/Ecore, Sirius, ATL, Acceleo).
 
-### 🐧 Linux & DevOps
+### 🤖 Back-end, AI & Data Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,spring&theme=dark" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="40" height="40" />
 
 </div>
 
-- Linux.
-- DevOps: Docker, docker-compose, GitHub Actions (CI/CD), Linux.
+- **Back-end & APIs:** FastAPI, Node.js, Express.js, Java EE / Spring Boot, RESTful APIs, WebSockets, Middlewares, Authentication & Authorization (JWT, NextAuth.js).
+- **AI & Generative AI:** Multi-Agent Architecture, RAG (LangChain, ChromaDB), Fine-Tuning LLM, Ollama, Machine Learning (Scikit-learn), Semantic Search & Vector Databases.
 
-### ⌨️ Languages
+### 🌐 Web & Front-end Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,php,js,solidity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" />
 
 </div>
 
-- Languages: Java, Python, Solidity, C, C++, PHP, JavaScript, PL/SQL, SQL, Maven.
+- **Front-end Ecosystem:** React, Next.js, Vue.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript, Babylon.js (3D WebGL), PyQt6.
 
-### 🧪 Tools & Testing
+### 🐧 DevOps, Cloud & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,terraform,git,github&theme=dark" />
+
+</div>
+
+- **DevOps & IaC:** Docker, Docker Compose, CI/CD Pipelines (GitHub Actions), Terraform (Infrastructure as Code), Linux Administration, Virtualization & Containerization.
+
+### ⌨️ Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,cpp,php,solidity&theme=dark" />
+
+</div>
+
+- **Languages:** Java, Python, TypeScript, JavaScript, C, C++, PHP, SQL, PL/SQL, Solidity, Maven.
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,sqlite&theme=dark" />
+
+</div>
+
+- **Databases:** PostgreSQL, MongoDB, MySQL, Oracle, SQLite, ChromaDB (Vector DB).
+
+### 📐 Methodologies, Testing & QA
 
 <div align="center">
 
@@ -103,47 +132,8 @@ I enjoy designing and developing software solutions, backend systems, and AI-pow
 
 </div>
 
-- Tools & Testing: MS Office, Postman, Unit/Integration Testing.
-
-### 🌐 Web Design & Front-end
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind&theme=dark" />
-
-</div>
-
-- Web Design & Front-end: HTML5, CSS3, JavaScript, TypeScript, Vue.js, React, Next.js, Tailwind CSS, Babylon.js (WebGL), PyQt6.
-
-### 📐 Methodologies
-
-- Methodologies: Agile, Scrum, UML, MVC, 2TUP, Design Patterns, Multi-agent Systems.
-
-### 🤝 Soft Skills
-
-- Soft Skills: Problem-Solving, Organizational Skills, Teamwork, Communication, Adaptability.
-
-### 🤖 Back-end & AI
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" />
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="40" height="40" />
-
-</div>
-
-- Back-end & AI: FastAPI, Node.js, Express.js, MERN, REST APIs, LLM Fine-Tuning, RAG (LangChain, ChromaDB), Ollama.
-
-### 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&theme=dark" />
-
-</div>
-
-- Databases: PostgreSQL, MongoDB, MySQL, Oracle, SQLite, ChromaDB.
+- **Testing & QA:** Unit & Integration Testing, JUnit, Postman, Software Validation & Quality Assurance (QA).
+- **Methodologies & Management:** Agile, Scrum, Jira, UML, 2TUP, Design Patterns, Git / GitHub Version Control.
 
 ## 🚀 SELECTED PROJECTS
 
