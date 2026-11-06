@@ -490,14 +490,12 @@ I'm continuously exploring new ideas in:
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=HichamEl-dev-creator&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 <img src="https://img.shields.io/github/followers/HichamEl-dev-creator?label=Followers&style=social" alt="GitHub Followers" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HichamEl-dev-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamEl-dev-creator&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HichamEl-dev-creator&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamEl-dev-creator&layout=compact&theme=tokyonight" />
 
 <br/><br/>
 
