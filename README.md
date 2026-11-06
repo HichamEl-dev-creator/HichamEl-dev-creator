@@ -484,12 +484,12 @@ I'm continuously exploring new ideas in:
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HichamEl-dev-creator&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamEl-dev-creator&layout=compact&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HichamEl-dev-creator&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HichamEl-dev-creator&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HichamEl-dev-creator&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=HichamEl-dev-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
