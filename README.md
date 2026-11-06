@@ -515,7 +515,7 @@ I'm continuously exploring new ideas in:
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/tree/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/Me/tree/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/HichamEl-dev-creator/HichamEl-dev-creator/tree/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
